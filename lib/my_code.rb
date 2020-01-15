@@ -1,12 +1,13 @@
-def map (array)
-  new = []
+def map(array)
+  new_array = []
   i = 0 
   while i < array.length 
-  new.push(yield(arrai[i]))
+  new_array.push(yield(arrai[i]))
   i += 1 
 end
-new
+new_array
 end
+
 
 
 
