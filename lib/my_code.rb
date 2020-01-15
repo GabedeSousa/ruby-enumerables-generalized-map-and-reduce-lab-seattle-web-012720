@@ -13,6 +13,7 @@ def reduce(array, sv=nil)
     num1 = sv 
     i = 0 
   else 
+    sum = array[0]
     
     
 
