@@ -9,7 +9,8 @@ new_array
 end
 
 def reduce(array, sv=nil)
-  i = 0 
+  if sv
+    
 
 
 
