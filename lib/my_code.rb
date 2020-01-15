@@ -8,6 +8,7 @@ end
 new_array
 end
 
+def reduce
 
 
 
